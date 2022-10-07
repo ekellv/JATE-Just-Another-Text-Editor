@@ -88,12 +88,16 @@ THEN I should have proper build scripts for a webpack application
 
 ## Visuals:
 
+![JATE homescreen](https://user-images.githubusercontent.com/103372188/194450282-d8f6d27e-b9a1-44e3-8788-e3243100df73.png)
+![JATE-service-worker-registered](https://user-images.githubusercontent.com/103372188/194450319-b4529b0e-c418-4b87-8d12-33de2052e8cb.png)
+
+
 ## Technologies
 
-- ![Node.js](https://nodejs.org/en/)
-- ![Express.js](https://expressjs.com/)
-- ![IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-- ![Webpack](https://webpack.js.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [Webpack](https://webpack.js.org/)
 
 ## Installation
 
