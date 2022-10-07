@@ -6,7 +6,7 @@ A text editing app with offline functionality.
 
 ![Github license](http://img.shields.io/badge/License-MIT-yellow.svg)
 
-[A version of the deployed website can be viewed here.](https://github.com/ekellv/JATE-Just-Another-Text-Editor)
+[A version of the deployed website can be viewed here.](https://aqueous-fortress-98451.herokuapp.com/)
 
 ## Contents
 
